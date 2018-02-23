@@ -6,7 +6,7 @@ set boxwidth 0.8
 #set xtics rotate by 30 right offset 2
 set style fill solid
 
-set xlabel "Processors/Node"
+set xlabel "Processors/Replica"
 set ylabel "Performance (ns/day)"
 
 set style data histogram
