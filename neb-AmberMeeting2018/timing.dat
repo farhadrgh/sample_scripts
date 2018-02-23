@@ -1,0 +1,6 @@
+title	sander	pmemd
+2CPU	0.04	0.07
+4CPU	0.07	0.13
+8CPU	0.13	0.24
+16CPU	0.22	0.36
+32CPU	0.34	0.59
